@@ -1,0 +1,91 @@
+    1  VirtualBox --startvm XP
+    2  uname -r
+    3  lsb_release
+    4  cat /etc/*-release
+    5  [echo $0)
+    6  [echo $0]
+    7  [pwd]
+    8  pwd
+    9  whoami, who
+   10  whoami
+   11  who
+   12  ls
+   13  cd
+   14  mkdir
+   15  man
+   16  ..
+   17  ]history
+   18  history
+   19  echo
+   20  nano
+   21  pwd
+   22  /home/user/darbi
+   23  ls
+   24  git init
+   25  git add .
+   26  git config --global user.email boks1234@inbox.lv
+   27  git commt -m ''20170913_09_30''
+   28  git commit -m ''20170913_09_30''
+   29  git remote add origin https://github.com/rtu-etf/2017_2018_03
+   30  man echo
+   31  echo x=10
+   32  echo $=x
+   33  echo $x
+   34  $x=10
+   35  echo $x
+   36* echo x=10
+   37  echo ''\n\t cau\ mani\n\ sauc\n\ t arturs\''
+
+
+
+
+
+
+echo ''\n\t cau\ mani\n\ sauc\n\ t arturs\''
+
+
+
+
+
+
+echo ''\n\t cau\ mani\n\ sauc\n\ t arturs\''
+
+
+
+
+
+
+echo ''\n\t cau\ mani\n\ sauc\n\ t arturs\''
+
+
+
+
+
+
+   38  echo $x
+   39  x=10
+   40  echo $x
+   41  echo "\n\t cau\ mani\n\ sauc\n\ t arturs\"
+
+   42  echo \n\ t cau\ mani\n\ sauc\n\ t arturs\
+   43  \ncau \nmani \nsauc \narturs \
+   44  \ n cau \n mani \n sauc \n arturs
+   45  $ echo *.jppeg
+   46  $ echo *.jpeg
+   47  network.jpeg
+   48  echo *.jpeg
+   49  echo "Test Page" > testpage
+   50  echo *
+   51  echo -e "Es macos RTU of \aRiga City
+   52  echo -e "\nMani \msauc \ma \mlabs \mcilveks \mof \mArturs
+   53  echo -e "vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
+   54  echo *
+   55  "\n\vMani \vis \vjau \vapnika \vof \vGribu \vMajas"
+   56  echo -n "Tecmint is a communitu of Linux Nerds"
+   57  history > history.txt
+   58  echo -e "\n\tTecmint \n\vis \n\va \n\vcommunity \n\vof \n\vLinux \n\vNerds"
+   59  echo "Test Page"
+   60  echo "Test Page" > teksts.txt
+   61  pwd
+   62  ls -l
+   63  history > history.txt
