@@ -1,0 +1,80 @@
+    1  VirtualBox --startvm XP
+    2  ls -l
+    3  git clone https://github.com/arturs983/DMI
+    4  ls -l
+    5  nano
+    6  ls -l
+    7  cat git-download.sh 
+    8  ls
+    9  git-download
+   10  git-download.sh
+   11  echo $PATH
+   12  whereis ls
+   13  cat /bin/ls
+   14  ls
+   15  ls -l /bin/ls
+   16  ls -l
+   17  ls
+   18  pwd
+   19  ls -l
+   20  /bin/ls
+   21  ls
+   22  ls -l
+   23  pwd
+   24  /home/user/git-download.sh
+   25  ls
+   26  chmod 744 git-download.sh
+   27  ls -l
+   28  ~/git-download.sh
+   29  ./git-download.sh
+   30  cat git-download.sh
+   31  ./git-download.sh\
+   32  ./git-download.sh
+   33  ls
+   34  ./git-download.sh
+   35  ls
+   36  ./git-download.sh
+   37  ls
+   38  ./git-download.sh
+   39  history
+   40  git-download
+   41  echo $PATH
+   42  PATH=/home/user:$PATH
+   43  echo $PATH
+   44  git-download
+   45  git-download.sh
+   46  git-download
+   47  ls -l
+   48  mv git-download.sh git download
+   49  ls -l
+   50  git-download
+   51  ls -l
+   52  mkdir darbi
+   53  cd darbi/
+   54  git-download
+   55  ls -l
+   56  cd ..
+   57  ls -l
+   58  git-download
+   59  mv git-download.sh git-download
+   60  cd darbi/
+   61  git-download
+   62  ls -l
+   63  cd DMI
+   64  ls -l
+   65  cp whereis git-download
+   66  ls ~/
+   67  cp ~/git-download ./
+   68  ls -l
+   69  nano
+   70  ls -l
+   71  chmod 744 git-upload
+   72  ls -l
+   73  ls -la
+   74  git-upload
+   75  ./git-upload
+   76  pwd
+   77  PATH=$PATH:/home/user/darbi/DMI
+   78  git-upload
+   79  ls -l
+   80  history > history_20170920.txt
