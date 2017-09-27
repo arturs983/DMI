@@ -1,38 +1,40 @@
     1  VirtualBox --startvm XP
-    2  git clone https://github.com/arturs983/DMI
-    3  ls -l
-    4  ls -la
-    5  CD DMI
-    6  cd DMI
-    7  ls -la
-    8  ls -l
-    9  ls -la
-   10  mainiigais=10
-   11  echo $mainiigais
-   12  echo $mainigais
-   13  pwd
-   14  nano shell_programming.sh
-   15  ls -l
-   16  chmod744 shell_programming.sh
-   17  chmod 744 shell_programming.sh
-   18  ls -l
+    2  echo $$
+    3  echo $n
+    4  echo $*
+    5  echo $#
+    6  nano shell_programming.sh 
+    7  shell_programming.sh
+    8  ./shell_programming.sh
+    9  cat shell_programming.sh 
+   10  shell_programming.sh arg1
+   11  ./shell_programming.sh arg1
+   12  ./shell_programming arg1 arg2
+   13  shell_programming arg1 arg2
+   14  ls -la
+   15  ./shell_programming.sh 
+   16  shell_programming.sh arg1 arg2
+   17  ./shell_programming.sh arg1 arg2
+   18  nano shell_programming.sh 
    19  shell_programming.sh
-   20  pwd
-   21  ./shell_programming.sh
+   20  nano shell_programming.sh 
+   21  ./shell_programming.sh 
    22  nano shell_programming.sh 
-   23  ./shell_programming.sh 
-   24  line 6: NAME: readonly variable
-   25  nano shell_programming.sh 
-   26  ./shell_programming.sh 
-   27  nano shell_programming.sh 
-   28  ./shell_programming.sh 
-   29  ls -l
-   30  ./shell_programming.sh 
-   31  nano
-   32  nano shell_programming.sh 
-   33  ./shell_programming.sh 
-   34  ls -la
-   35  pwd
-   36  ls -la
-   37  nano git-upload
-   38  history > history_20170927.txt
+   23  ./shell_programming.sh arg1 arg2
+   24  nano shell_programming.sh 
+   25  ./shell_programming.sh arg1 arg2
+   26  nano shell_programming.sh 
+   27  ./shell-programming.sh
+   28  ./ echo shell_programming.sh 
+   29  nano git up-load
+   30  nano git-upload
+   31  history > history_20170927.txt
+   32  git-upload
+   33  PATH=PATH:./
+   34  git-upload
+   35  nano git-upload
+   36  history > history_20170927 .txt
+   37  echo $PATH
+   38  PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user/DMI
+   39  echo $PATH
+   40  history > history_20170927.txt
