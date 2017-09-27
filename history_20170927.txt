@@ -1,0 +1,38 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/arturs983/DMI
+    3  ls -l
+    4  ls -la
+    5  CD DMI
+    6  cd DMI
+    7  ls -la
+    8  ls -l
+    9  ls -la
+   10  mainiigais=10
+   11  echo $mainiigais
+   12  echo $mainigais
+   13  pwd
+   14  nano shell_programming.sh
+   15  ls -l
+   16  chmod744 shell_programming.sh
+   17  chmod 744 shell_programming.sh
+   18  ls -l
+   19  shell_programming.sh
+   20  pwd
+   21  ./shell_programming.sh
+   22  nano shell_programming.sh 
+   23  ./shell_programming.sh 
+   24  line 6: NAME: readonly variable
+   25  nano shell_programming.sh 
+   26  ./shell_programming.sh 
+   27  nano shell_programming.sh 
+   28  ./shell_programming.sh 
+   29  ls -l
+   30  ./shell_programming.sh 
+   31  nano
+   32  nano shell_programming.sh 
+   33  ./shell_programming.sh 
+   34  ls -la
+   35  pwd
+   36  ls -la
+   37  nano git-upload
+   38  history > history_20170927.txt
