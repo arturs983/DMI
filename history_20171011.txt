@@ -1,0 +1,46 @@
+    1  VirtualBox --startvm XP
+    2  https://tutorialspoint.com/unix/unix-basic-operators.html
+    3  https://tutorialspoint.com/unix/unix-basic-operators.htm
+    4  -eq
+    5  #!/bin/sh
+    6  val=`expr 2 + 2
+
+
+
+
+    7  nano
+    8  chmod 744 shell-operatots.sh
+    9  ls -l
+   10  ./shell-operators.sh
+   11  chmod 744 shell-operators.sh
+   12  ./shell-operators.sh
+   13  nano
+   14  nano shell-operators.sh
+   15  ./shell-operators.sh
+   16  nano shell-operators.sh
+   17  ./shell-operators.sh
+   18  nano shell-operators.sh
+   19  ./shell-operators.sh
+   20  nano shell-operators.sh
+   21  ./shell-operators.sh
+   22  nano shell-operators.sh
+   23  ./shell-operators.sh
+   24  nano shell-operators.sh
+   25  ./shell-operators.sh
+   26  nano shell-operators.sh
+   27  ./shell-operators.sh
+   28  nano shell-operators.sh
+   29  ./shell-operators.sh
+   30  nano shell-operators.sh
+   31  chmod shell-operators.sh
+   32  ls -l
+   33  nano shell-operators.sh
+   34  ./shell-programming.sh
+   35  nano shell-programming.sh
+   36  fg
+   37  nano shell-operators.sh
+   38  ./shell-operators.sh
+   39  nano shell-operators.sh
+   40  ./shell-operators.sh
+   41  nano git-upload
+   42  history > history_20171011.txt
