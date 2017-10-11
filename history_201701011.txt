@@ -62,3 +62,9 @@
    58  ./git-upload 20171011_11_50
    59  nano git-upload
    60  history > history_20171011.txt
+   61  ./git-ipload 20171011_11_50
+   62  nano git-upload
+   63  history > history_201701011.txt
+   64  ./git-upload 201701011_11_50
+   65  nano git-upload
+   66  history > history_201701011.txt
