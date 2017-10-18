@@ -1,0 +1,39 @@
+    1  VirtualBox --startvm XP
+    2  nano dialogs.sh
+    3  ls
+    4  dialogs
+    5  ./dialogs.sh
+    6  chmod 744 dialogs.sh
+    7  ./dialogs.sh
+    8  7 9
+    9  .dialogs.sh
+   10  ./dialogs.sh
+   11  nano dialogs.sh
+   12  ./dialogs.sh
+   13  nano dialogs.sh
+   14  ,/dialogs.sh
+   15  ./dialogs.sh
+   16  nano dialogs.sh
+   17  ./dialogs.sh
+   18  nano dialogs.sh
+   19  ./dialogs.sh
+   20  nao dialogs.sh
+   21  nano dialogs.sh
+   22  ./dialogs.sh
+   23  nano dialogs.sh
+   24  ./dialogs/sh
+   25  ./dialogs.sh
+   26  nano dialogs.sh
+   27  ./dialogs.sh
+   28  nano dielaogs.sh
+   29  nano dialogs.sh
+   30  ./dialogs.sh
+   31  ls -l
+   32  cp dialogs.sh a_VS_b_VS_c.sh
+   33  ls -la
+   34  nano a_VS_b_VS_c.sh
+   35  ./a_VS_b_VS_c.sh
+   36  nano a_VS_b_VS_c.sh
+   37  ./a_VS_b_VS_c.sh
+   38  nano git-upload
+   39  history > hsitory_20171018.txt
