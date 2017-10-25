@@ -1,0 +1,50 @@
+    1  VirtualBox --startvm XP
+    2  ls -l
+    3  cd DMI
+    4  ls -l
+    5  git clone https://github.com/arturs983/DMI
+    6  cd DMI
+    7  nano if_CO2.sh
+    8  chmod 744 if_CO2.sh
+    9  nano if_CO2.sh
+   10  chmod 744 if_CO2.sh
+   11  cat if_CO2.sh
+   12  nano if_CO2.sh
+   13  cat if_CO2.sh
+   14  ./if_CO2/sh 10
+   15  ./if_CO2.sh 10
+   16  ./if_CO2.sh -10
+   17  nano if_CO2.sh
+   18  ./if_CO2.sh 10
+   19  nano if_CO2.sh
+   20  ./if_CO2.sh 10
+   21  nano if_CO2.sh
+   22  ./if_CO2.sh 10
+   23  ./if_CO2.sh -10
+   24  nano if_CO2.sh
+   25  ./if_CO2.sh -10
+   26  ./if_CO2.sh 10
+   27  nano if_CO2.sh
+   28  ./if_CO2.sh 10
+   29  ./if_CO2.sh -10
+   30  ./if_CO2.sh 0
+   31  nano if_CO2.sh
+   32  nano operators.sh
+   33  ls -l
+   34  nano shell-operators.sh
+   35  nano if_CO2.sh
+   36  nano sorting.sh
+   37  ./sorting.sh
+   38  nano array-loop.sh
+   39  chmod 744 array-loop.sh
+   40  chmod 744 sorting.sh
+   41  nano array-loop.sh
+   42  ./array-loop.sh 10 89 63
+   43  ls-l
+   44  ls -l
+   45  nano array-loop.sh
+   46  ./array-loop.sh 10 89 63
+   47  nano array-loop.sh
+   48  ./array-loop.sh 20 30
+   49  nano array-loop.sh
+   50  history > history_20171025.txt
