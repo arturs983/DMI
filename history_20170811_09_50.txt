@@ -1,0 +1,54 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/arturs983/DMI
+    3  cd
+    4  pwd
+    5  cd DMI
+    6  mkdir PYTHON
+    7  cd PYTHON/
+    8  pwd
+    9  whereis python
+   10  nano hello.py
+   11  ls -l
+   12  ls- l
+   13  ls -l
+   14  ./hello.py
+   15  chmod 744 hello.py
+   16  ./hello.py
+   17  nano hello.py
+   18  ./hello.py
+   19  nano hello.py
+   20  ./hello.py
+   21  nano hello.py
+   22  ./hello.py
+   23  nano hello.py
+   24  ./hello.py
+   25  nano hello.py
+   26  ./hello.py
+   27  nano hello.py
+   28  ./hello.py
+   29  nano hello.py
+   30  ./hello.py
+   31  nano hello.py
+   32  ./hello.py
+   33  nano hello.py
+   34  nano variables.py
+   35  chmod 744 variables.py
+   36  ./variables/py
+   37  nano variables.py
+   38  ./variables/py
+   39  ./variables.py
+   40  nano variables.py
+   41  ./variables.py
+   42  nano variables.py
+   43  ./variables.py
+   44  nano variables.py
+   45  ./variables.py
+   46  nano variables.py
+   47  cd..
+   48  cd ..
+   49  nano git uload
+   50  nano git upload
+   51  nano git-upload
+   52  git upload
+   53  history > history 20170811_09_50.txt
+   54  history > history_20170811_09_50.txt
