@@ -1,0 +1,24 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/arturs983/DMI
+    3  cd DMI
+    4  cd PYTHON
+    5  nano sin_caur_summu_ver1_.py
+    6  PYTHON sin_caur_summu_ver1_.py
+    7  python sin_caur_summu_ver1_.py
+    8  python nano sin_caur_summu_ver1_.py
+    9  nano sin_caur_summu_ver1_.py
+   10  python sin_caur_summu_ver1_.py
+   11  nano sin_caur_summu_ver1_.py
+   12  python sin_caur_summu_ver1_.py
+   13  nano sin_caur_summu_ver1_.py
+   14  python sin_caur_summu_ver1_.py
+   15  nano sin_caur_summu_ver1_.py
+   16  cp sin_caur_summu_ver1_.py
+   17  cp sin_caur_summu_ver1_.py sin_caur_summu_ver2_.py 
+   18  ls -l
+   19  nano sin_caur_summu_ver2_.py
+   20  python sin_caur_summu_ver2_.py
+   21  nano sin_caur_summu_ver2_.py
+   22  cd ..
+   23  pwd
+   24  history > history_20171115_.txt
