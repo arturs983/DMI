@@ -3,7 +3,7 @@ if [ $# == 1 ]
 then
 git config --global user.email boks1234@inbox.lv
 git add .
-#git commit -m "20170811_09_50"
+#git commit -m "20172211_11_50"
 git commit -m $1
 git push origin master
 fi
