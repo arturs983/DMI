@@ -1,0 +1,8 @@
+    1  VirtualBox --startvm XP
+    2  firefox &
+    3  nano 
+    4  idle &
+    5  ls -l
+    6  idle &
+    7  cd ..
+    8  history > history_20171129.txt
