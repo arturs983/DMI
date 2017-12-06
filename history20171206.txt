@@ -1,0 +1,14 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/arturs983/DMI
+    3  ls -l
+    4  cd DMI
+    5  cd PYTHON
+    6  ls -l
+    7  idle &
+    8  ls -l
+    9  cd ..
+   10  nano git-uplaod
+   11  ls -l
+   12  nano git-upload
+   13  history
+   14  history > history20171206.txt
