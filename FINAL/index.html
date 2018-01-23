@@ -59,7 +59,7 @@
     </a>
     <pre>Nospiežot uz attēla var pāriet uz uzdevuma kodu github'ā (klases darbs)</pre>
     <a href="https://github.com/arturs983/DMI/blob/master/PYTHON/majas%20darbs%20sin%5E2x.py">
-    <img src="...">
+    <img src="https://github.com/arturs983/DMI/blob/master/FINAL/sin*2x-1.png?raw=true">
     </a>
     <pre>Nospiežot uz attēla var pāriet uz uzdevuma kodu github'ā (individuāls uzdevums)</pre>
 
@@ -75,7 +75,7 @@
     <pre>Uzdevuma galvenais mērķis ir ... izmantojot ... piemēram ...</pre>
    <h6>Attēls(i) ar rezultātiem</h6>
     <a href="https://github.com/arturs983/DMI/blob/master/PYTHON/dichotomy.py">
-    <img src="...">
+    <img src="https://github.com/arturs983/DMI/blob/master/FINAL/dichotomy.png?raw=true"> <"https://github.com/arturs983/DMI/blob/master/FINAL/dichotomy2.png?raw=true">
     </a>
     <pre>Nospiežot uz attēla var pāriet uz uzdevuma kodu github'ā (klases darbs)</pre>
     <a href="...">
@@ -95,7 +95,7 @@
     <pre>Uzdevuma galvenais mērķis ir ... izmantojot ... piemēram ...</pre>
    <h6>Attēls(i) ar rezultātiem</h6>
     <a href="https://github.com/arturs983/DMI/blob/master/PYTHON/derivative.py">
-    <img src="">
+    <img src="https://github.com/arturs983/DMI/blob/802f8bd5f955900e1163190441ee70b9afddbf30/FINAL/derivative.png?raw=true">
     </a>
     <pre>Nospiežot uz attēla var pāriet uz uzdevuma kodu github'ā (klases darbs)</pre>
     <a href="...">
@@ -113,8 +113,50 @@
    <h6>Uzdevuma apraksts (ko es no tā sarotu):</h6>
     <pre>Uzdevuma galvenais mērķis ir ... izmantojot ... piemēram ...</pre>
    <h6>Attēls(i) ar rezultātiem</h6>
-    <a href="...">
-    <img src="...">
+    <a href="import random
+import numpy as np
+import matplotlib.pyplot as plt
+
+def mans_sinuss(x):
+    y = np.sin(x)
+    return y
+
+N = 100000
+x = []
+y = []
+a = 0
+b = np.pi
+c = -1
+d = 1
+
+for i in range(N):
+    x.append(random.uniform(a,b))
+for i in range(N):
+    y.append(random.uniform(c,d))
+
+red_x = []
+red_y = []
+green_x = []
+green_y = []
+
+for i in range(N):
+    if (y[i] < mans_sinuss(x[i]) and y[i] > 0) \
+    or (y[i] > mans_sinuss(x[i]) and y[i] < 0):
+        green_x.append(x[i])
+        green_y.append(y[i])
+    else:
+        red_x.append(x[i])
+        red_y.append(y[i])
+
+plt.plot(green_x,green_y,'go')
+plt.plot(red_x,red_y,'rv')
+plt.grid()
+plt.show()
+
+areaRect = (b-a)*(d-c)
+areaSin = areaRect * len(green_x) / N
+print areaSin">
+    <img src="https://github.com/arturs983/DMI/blob/master/FINAL/Nr2-1.png?raw=true">
     </a>
     <pre>Nospiežot uz attēla var pāriet uz uzdevuma kodu github'ā (klases darbs)</pre>
     <a href="...">
