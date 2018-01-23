@@ -11,7 +11,7 @@ def mans_sinuss(x):
 
     while k < 3:
     	k = k + 1
-   	a = a * (-1) * x**2/((2*k)*(2*k+1))
+   	R = a*(-1)*x**2/((2*k)*(2*k+1))
         a = a * R
 
    	S = S + a
